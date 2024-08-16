@@ -1,4 +1,4 @@
-FROM registry.suse.com/suse/sle15:15.3
+FROM registry.suse.com/suse/sle15:15.6
 LABEL maintainer="Michele Bologna <michele.bologna@suse.com>"
 LABEL name="SUSE Manager apache build profile"
 LABEL version="3.0.1-20220125"
